@@ -1,0 +1,26 @@
+[{
+  "politics": [
+    "election",
+    "vote",
+    "senate",
+    "biden"]
+},
+  {
+    "technology": [
+      "tech",
+      "technology",
+      "ai",
+      "app",
+      "robot",
+      "startup"
+    ]
+  },
+  {
+    "sports": [
+      "game",
+      "team",
+      "score",
+      "championship"
+    ]
+  }
+]
